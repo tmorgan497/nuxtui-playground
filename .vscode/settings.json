@@ -1,0 +1,11 @@
+{
+  "javascript.suggest.autoImports": false,
+  "typescript.suggest.autoImports": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno",
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+
+}

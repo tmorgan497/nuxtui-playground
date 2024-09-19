@@ -9,16 +9,9 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
-  "dependencies": {
-    "@nuxt/ui": "^2.18.5",
-    "@nuxtjs/tailwindcss": "^6.12.1",
-    "nuxt": "^3.13.0",
-    "vue": "latest",
-    "vue-router": "latest"
-  },
   "devDependencies": {
-    "@nuxt/icon": "^1.5.1",
-    "prettier": "^3.3.3",
-    "prettier-plugin-tailwindcss": "^0.6.6"
+    "@nuxt/devtools": "latest",
+    "@nuxt/ui": "^2.18.5",
+    "nuxt": "^3.12.4"
   }
 }
